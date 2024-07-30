@@ -18,7 +18,7 @@ This is a Book Management API built with Node.js, Express, TypeScript, and Mongo
 
 1. **Clone the repository**:
     ```
-    git clone https://github.com/yourusername/book-management-api.git
+    git clone https://github.com/jorbit22/BOOK-MANAGEMENT-API.git
     cd book-management-api
     ```
 
